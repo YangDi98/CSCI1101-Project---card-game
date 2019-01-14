@@ -1,0 +1,8 @@
+Four player mode:
+Four players are divided into two groups depending the input order. 
+The first and the third are in the same group. 
+The second and the fourth are in the same group.
+The first player gets to play first, he can choose how many up to four cards to play
+Multiple cards have to have the same value.
+The next person choose same number of cards(s) but higher value to beat previous card(s).
+The first group of two players who have no cards are the winners.

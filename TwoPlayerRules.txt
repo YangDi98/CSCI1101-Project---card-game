@@ -1,0 +1,8 @@
+Two player mode:
+The player (Player A) who has the Heart 3 after dealing has the chance to play first.
+he can choose to play a single card or a pair or three cards or four cards. 
+Multiple cards have to have the same value.
+Player B has to choose same number of card(s) but higher value to beat Player A’s card(s). 
+This loop continues until one of them cannot beat the card(s) on the table. 
+After that, the last player has the chance to start a new round. 
+When one of the players has no more hand cards, this player is the winner.
